@@ -8,9 +8,9 @@ Rated Voltage:1.2V
 
 Rated Capacity:1500mAh
 
-Batch Number/Parti Numarası:XNNQSMAA1500
+Batch Number/Parti Numarası:HBNQAA1500
 
-Serial Number/Seri numarası:HBAA1500GLCE
+Serial Number/Seri numarası:B0BF0G16
 
 Manufacturer:Xinxiang Huabo Power Material Co., Ltd
 
