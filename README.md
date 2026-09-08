@@ -10,7 +10,7 @@ Rated Capacity:1500mAh
 
 Batch Number/Parti Numarası:HBNQAA1500
 
-Serial Number/Seri numarası:B0BF0G16
+Serial Number/Seri numarası:B0BF0G15
 
 Manufacturer:Xinxiang Huabo Power Material Co., Ltd
 
