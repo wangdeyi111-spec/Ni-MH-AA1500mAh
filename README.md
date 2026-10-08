@@ -27,7 +27,7 @@ the battery compartment to avoid short circuits.
 4.This battery complies with EU Battery Regulation (EU) 2023/1542 – Batteries and 
 Waste Batteries standards. Please recycle according to local regulations after disposal.
 
-Warnings:
+WARNINGS:
 
 Keep batteries away from small children.
 
